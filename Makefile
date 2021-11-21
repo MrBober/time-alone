@@ -1,4 +1,3 @@
-# Define required macros here
 SHELL = /bin/sh
 
 OBJS = main.o
